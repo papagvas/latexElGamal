@@ -2,4 +2,4 @@
 # name: mathcal
 # key: \m
 # --
-\mathcal\{${1:cum}\} $0
+\mathcal\{${1:text}\} $0
