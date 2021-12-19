@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: list
+# key: >i
+# --
+
+\item ${1:item}
+$0

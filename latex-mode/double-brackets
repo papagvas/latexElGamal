@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: double brackets
+# key: \db
+# --
+[\![${1:text}]\!] $0

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: mathcal
+# key: \m
+# --
+\mathcal\{${1:cum}\} $0
